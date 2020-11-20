@@ -8,5 +8,8 @@
 <h2>HTML Links</h2>
 
 <script src="index.js"></script>
+<script>
+    alert("Coucou");
+</script>
 </body>
 </html>
