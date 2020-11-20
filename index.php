@@ -7,5 +7,6 @@
 
 <h2>HTML Links</h2>
 
+<script src="index.js"></script>
 </body>
 </html>
