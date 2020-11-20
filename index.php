@@ -8,5 +8,8 @@
 <h2>HTML Links</h2>
 
 <script src="index.js"></script>
+<script>
+    alert("Toto aaaah un conflit!");
+</script>
 </body>
 </html>
